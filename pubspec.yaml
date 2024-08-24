@@ -14,6 +14,7 @@ dependencies:
   flutter_svg: ^0.22.0
   permission_handler: ^11.0.1
   intl: ^0.18.1
+  connectivity_plus: ^6.0.5
 
 
 dev_dependencies:
