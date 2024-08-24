@@ -1,7 +1,7 @@
 # ejercicio_prueba
 
 El proyecto es una aplicacion basica que tiene dos pantallas una inicial donde muestra el tiempo actual la descripcion y un icono que representa esa descripcion jutno a un boton de actualizar los datos y otro boton 
-en la parte inferior que pasa a la otra pantalla que muestra la fecha y los datos por 3 dias siguientes
+en la parte inferior que pasa a la otra pantalla que muestra la fecha y los datos por 3 dias siguientes con la temp min y la temp max que se calcula observando las temperaturas de todo el dia
 
 
 ## Instalacion
@@ -13,9 +13,12 @@ en la parte inferior que pasa a la otra pantalla que muestra la fecha y los dato
 -Flutter pub get
 -Flutter run
 ## Funcionamiento 
-![1](https://github.com/jgcaicedo/ejercicio_pronostico/assets/108642329/c5272f34-c8b4-4430-b8a1-2aa7dfad6f6b)
-![2](https://github.com/jgcaicedo/ejercicio_pronostico/assets/108642329/f982c4e1-244d-4622-a328-2a03d6383998)
-![3](https://github.com/jgcaicedo/ejercicio_pronostico/assets/108642329/8dabf85b-0f3a-49b1-a626-d523957441cd)
+
+![image](https://github.com/user-attachments/assets/bbefea40-db37-4592-8580-d92820a75d14)
+![image](https://github.com/user-attachments/assets/d266436d-e516-468b-a4d0-6121af71c705)
+![image](https://github.com/user-attachments/assets/cd0b724e-a23c-4d38-91ba-494db1c02062)
+
+
 
 
 ## Autor
